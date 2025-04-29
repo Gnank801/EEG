@@ -1,6 +1,6 @@
 # EEG Based Source Localization Using PML
 
-This repository contains the implementation and analysis of EEG-based brain source localization techniques, carried out as part of an undergraduate project at IIT Kanpur.
+This repository contains the implementation and analysis of EEG-based brain source localization techniques, carried out as part of an Undergraduate Project under **Prof. Tushar Sandhan** at IIT Kanpur.
 
 ## 🧠 Project Overview
 
